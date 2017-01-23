@@ -1,0 +1,14 @@
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\LAB5.Caravell.Data.dll.config
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\LAB5.Caravell.Data.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\LAB5.Caravell.Data.pdb
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\EntityFramework.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\MySql.Data.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\EntityFramework.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\MySql.Data.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\obj\Debug\LAB5.Caravell.Data.csprojResolveAssemblyReference.cache
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\obj\Debug\LAB5.Caravell.Data.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Data\obj\Debug\LAB5.Caravell.Data.pdb

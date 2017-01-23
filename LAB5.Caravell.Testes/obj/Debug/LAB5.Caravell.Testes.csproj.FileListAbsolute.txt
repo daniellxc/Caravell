@@ -1,0 +1,17 @@
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\LAB5.Caravell.Testes.dll.config
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\LAB5.Caravell.Testes.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\LAB5.Caravell.Testes.pdb
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\EntityFramework.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\LAB5.Caravell.Data.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\LAB5.Caravell.Data.pdb
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\EntityFramework.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\obj\Debug\LAB5.Caravell.Testes.csprojResolveAssemblyReference.cache
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\obj\Debug\LAB5.Caravell.Testes.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\obj\Debug\LAB5.Caravell.Testes.pdb
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\MySql.Data.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\MySql.Data.xml
+C:\Repositorios\LAB5.Caravell\LAB5.Caravell.Testes\bin\Debug\MySql.Data.Entity.EF6.xml
