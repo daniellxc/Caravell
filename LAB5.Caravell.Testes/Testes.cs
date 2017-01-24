@@ -11,7 +11,9 @@ namespace LAB5.Caravell.Testes
         [TestMethod]
         public void TestSalvarPessoaFisica()
         {
-            PessoaJuridica pf = new PessoaJuridica();
+
+
+            PessoaFisica pf = new PessoaFisica();
             pf.FK_Pessoa = new Pessoa();
             pf.FK_Pessoa.FK_Endereco = new Endereco();
 
@@ -25,14 +27,14 @@ namespace LAB5.Caravell.Testes
             pf.FK_Pessoa.Telefone1 = "988588449";
             pf.FK_Pessoa.Telefone2 = "32351812";
             pf.CPF = "07216791452";
-           // pf.Rg = "3063806";
+            pf.Rg = "3063806";
             pf.DataNascimento = DateTime.Parse("17/01/1987");
             pf.Email = "daniellxc@gmail.com";
             pf.Nome = "Daniel Xavier Cardoso";
 
             new PessoaFisicaRepository().Save(pf);
             Assert.AreNotEqual(pf.IdPessoa, 0);
-			
+
 
         }
     }

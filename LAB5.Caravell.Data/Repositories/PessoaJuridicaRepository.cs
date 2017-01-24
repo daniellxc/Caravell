@@ -39,11 +39,11 @@ namespace LAB5.Caravell.Data.Repositories
             }
             catch (DbEntityValidationException dbex)
             {
-                throw new Exception("Erro ao salvar pessoa física. " + dbex.Message);
+                throw new Exception("Erro ao salvar pessoa jurídica. " + dbex.Message);
             }
             catch (Exception ex)
             {
-                throw new Exception("Erro ao salvar pessoa física. " + ex.Message);
+                throw new Exception("Erro ao salvar pessoa jurídica. " + ex.Message);
             }
         }
 
@@ -56,11 +56,11 @@ namespace LAB5.Caravell.Data.Repositories
             }
             catch (DbUpdateException dbex)
             {
-                throw new Exception("Erro ao salvar pessoa física. " + dbex.Message);
+                throw new Exception("Erro ao salvar pessoa jurídica. " + dbex.Message);
             }
             catch (Exception ex)
             {
-                throw new Exception("Erro ao excluir pessoa física. " + ex.Message);
+                throw new Exception("Erro ao excluir pessoa jurídica. " + ex.Message);
             }
         }
 

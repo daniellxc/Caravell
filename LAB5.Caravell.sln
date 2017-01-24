@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5.Caravell.Data", "LAB5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5.Caravell.Testes", "LAB5.Caravell.Testes\LAB5.Caravell.Testes.csproj", "{74C3E07E-2C0F-46B5-BF4A-625F97309032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAB5.Caravell.MVC", "LAB5.Caravell.MVC\LAB5.Caravell.MVC.csproj", "{81DA5809-DE8D-4476-9227-12D8DE5DB888}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{74C3E07E-2C0F-46B5-BF4A-625F97309032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74C3E07E-2C0F-46B5-BF4A-625F97309032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74C3E07E-2C0F-46B5-BF4A-625F97309032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81DA5809-DE8D-4476-9227-12D8DE5DB888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81DA5809-DE8D-4476-9227-12D8DE5DB888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81DA5809-DE8D-4476-9227-12D8DE5DB888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81DA5809-DE8D-4476-9227-12D8DE5DB888}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
